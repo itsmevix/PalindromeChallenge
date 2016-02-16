@@ -1,5 +1,4 @@
 # PalindromeChallenge
-Palindrome Challenge with Angularjs
-Victor de Andrade Silva
+Palindrome Challenge with Angularjs by Victor de Andrade Silva
 
-The function removeDiacrits is from a public pagination API called Backbone (https://github.com/backbone-paginator/backbone.paginator)
+The function removeDiacritics is from a public pagination API called Backbone (https://github.com/backbone-paginator/backbone.paginator)
